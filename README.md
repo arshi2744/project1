@@ -16,4 +16,8 @@ For places to eat, to play, and to drink, choose LocALL. We give you the best re
 recommendations/)
 
 
-
+## API Demos
+- [Beer Mapping]
+- [Google Maps]
+- [TrailAPI]
+- [Zomato](
