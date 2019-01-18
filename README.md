@@ -1,14 +1,10 @@
-<a href="https://ijlee2.github.io/LocALL/" target="_blank"><img src="assets/images/locall_splash.png?raw=true" alt="LocALL"></a>
-# LocALL
+<a href="https://arshi2744.github.io/project1/" target="_blank"><img src="assets/images/locall_splash.png?raw=true" alt="LocALL"></a>
+# project1
 For places to eat, to play, and to drink, choose LocALL. We give you the best recommendations in an instant!
 
 
 
-## GitHub Demos
-- [Click here to see our website in action.](https://ijlee2.github.io/LocALL/)
-- [Click here to see creating databases in action.](https://ijlee2.github.io/LocALL/admin/create_databases_nofirebase.html)
-- [Click here to see making recommendations in action.](https://ijlee2.github.io/LocALL/admin/display_recommendations.html)
-- [Click here to see authenticating users in action.](https://ijlee2.github.io/LocALL/admin/authenticate_users.html)
+
 
 ## Technologies Used
 - [x] Bootstrap, CSS Grid
